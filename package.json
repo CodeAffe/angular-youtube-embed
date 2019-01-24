@@ -10,7 +10,6 @@
     "url": "git://github.com/Mosho1/angular-youtube-embed.git"
   },
   "scripts": {
-    "postinstall": "bower install",
     "start": "gulp",
     "test": "gulp test"
   },
